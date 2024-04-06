@@ -1,0 +1,9 @@
+C:\Users\nicos\RustScraper\quotes_scraper\target\debug\deps\proc_macro_hack-1214a205e4a4b7f3.dll: C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\lib.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\quote.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\error.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\iter.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\parse.rs
+
+C:\Users\nicos\RustScraper\quotes_scraper\target\debug\deps\proc_macro_hack-1214a205e4a4b7f3.d: C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\lib.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\quote.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\error.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\iter.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\parse.rs
+
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\lib.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\quote.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\error.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\iter.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\proc-macro-hack-0.5.20+deprecated\src\parse.rs:

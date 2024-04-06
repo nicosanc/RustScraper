@@ -1,0 +1,15 @@
+C:\Users\nicos\RustScraper\quotes_scraper\target\debug\deps\libmarkup5ever-4eebff5692b76cc7.rmeta: C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\lib.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\data\mod.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\interface\mod.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\interface\tree_builder.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\serialize.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\util\buffer_queue.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\util\smallcharset.rs C:\Users\nicos\RustScraper\quotes_scraper\target\debug\build\markup5ever-d6bb6cbbc66e9236\out/generated.rs C:\Users\nicos\RustScraper\quotes_scraper\target\debug\build\markup5ever-d6bb6cbbc66e9236\out/named_entities.rs
+
+C:\Users\nicos\RustScraper\quotes_scraper\target\debug\deps\markup5ever-4eebff5692b76cc7.d: C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\lib.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\data\mod.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\interface\mod.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\interface\tree_builder.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\serialize.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\util\buffer_queue.rs C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\util\smallcharset.rs C:\Users\nicos\RustScraper\quotes_scraper\target\debug\build\markup5ever-d6bb6cbbc66e9236\out/generated.rs C:\Users\nicos\RustScraper\quotes_scraper\target\debug\build\markup5ever-d6bb6cbbc66e9236\out/named_entities.rs
+
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\lib.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\data\mod.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\interface\mod.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\interface\tree_builder.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\serialize.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\util\buffer_queue.rs:
+C:\Users\nicos\.cargo\registry\src\index.crates.io-6f17d22bba15001f\markup5ever-0.11.0\util\smallcharset.rs:
+C:\Users\nicos\RustScraper\quotes_scraper\target\debug\build\markup5ever-d6bb6cbbc66e9236\out/generated.rs:
+C:\Users\nicos\RustScraper\quotes_scraper\target\debug\build\markup5ever-d6bb6cbbc66e9236\out/named_entities.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\nicos\\RustScraper\\quotes_scraper\\target\\debug\\build\\markup5ever-d6bb6cbbc66e9236\\out
