@@ -71,33 +71,3 @@ fn crawl(url: &str, visited: &mut HashSet<String>){
         Err(_) => println!("Could not make request to: {}",url),
     }
 }
-
-
-/* fn get_quotes(){
-    let url = "https://quotes.toscrape.com/";
-    let resp = reqwest::blocking::get(url).unwrap().text().unwrap();
-
-    let document = Html::parse_document(&resp);
-
-    // Selectors are data structures that can hold some type of command
-    // as a reference for when its used to parse the html dom
-    let tag_selector = Selector::parse(".quote").unwrap();
-    
-    // Using this selector we try and find all of the quotes in the document,
-    // using the class name of their css style .quote
-
-    for quote in document.select(&tag_selector){
-        // This returns an Option<ElementRef> which is a reference to an element in an element
-        // in this case the individual tag elements
-       if let Some(tags) = quote.select(&Selector::parse(".tags").unwrap()).next(){
-
-           for tag in tags.select(&Selector::parse(".tag").unwrap()){
-               println!("{}", tag.inner_html());
-           }
-       }
-       println!("---")
-
-    }
-
-
-} */
